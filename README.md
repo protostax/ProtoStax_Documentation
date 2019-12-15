@@ -1,4 +1,4 @@
-# ProtoStax_Weather_Station_Demo
+# ProtoStax Documentation
 Repository for all documentation pertaining to [ProtoStax Enclosures](https://www.protostax.com/)
 
 ## License
